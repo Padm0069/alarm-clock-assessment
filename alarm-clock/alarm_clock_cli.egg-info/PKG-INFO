@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: alarm-clock-cli
+Version: 0.1.0
+Summary: A tiny terminal alarm clock (stdlib only)
+Requires-Python: >=3.9
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
